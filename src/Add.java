@@ -7,5 +7,9 @@ public class Add {
 		System.out.println("Guy G2's code");
 
 	}
+	public static void  Method1()
+	{
+		System.out.println("Method added by guy 1 for debelop branch");
+	}
 
 }
