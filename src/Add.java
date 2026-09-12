@@ -11,5 +11,9 @@ public class Add {
 	{
 		System.out.println("Method added by guy 1 for debelop branch");
 	}
+	public static void  Method2()
+	{
+		System.out.println("Method added by guy 2 for debelop branch");
+	}
 
 }
